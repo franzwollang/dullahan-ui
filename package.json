@@ -1,0 +1,11 @@
+{
+  "name": "dullahan-ui",
+  "version": "0.0.0",
+  "description": "A headless UI library meant to complement and extend @shadcn/ui with more complex components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franz-Josef Wollang",
+  "license": "ISC"
+}
